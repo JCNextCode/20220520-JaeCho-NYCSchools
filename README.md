@@ -6,7 +6,8 @@ Native app providing information on NYC High schools.
 - Selecting a school shows additional information on the SAT information.
 - Completely developed in SwiftUI
 - Usage of WaterfallGrid 3rd Party Package to enhance UI.
-
+- Used MVVM architecture.
+- Imported WaterFallGrid third party package for future enhancement.
 
 
 <p align="left">
